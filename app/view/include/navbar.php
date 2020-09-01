@@ -46,7 +46,7 @@
                                     <li><a href="<?php echo URLROOT;?>/pages/about">About</a></li>
                                     <li><a href="<?php echo URLROOT;?>/pages/service">Services</a></li>
                                     <li><a href="<?php echo URLROOT;?>/pages/track">Track</a></li>
-                                    <li><a href="<?php echo URLROOT;?>/pages/contact">Contact</a></li>
+                                    <li><a href="#footer">Contact</a></li>
                                 </ul>
                             <?php endif;?>
                             </nav>

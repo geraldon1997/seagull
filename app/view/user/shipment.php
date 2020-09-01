@@ -15,6 +15,12 @@
                             	<div class="form-group col-lg-6 col-md-6 col-sm-6" style="opacity: 0.7;">
                             		<input type="text" class="form-control" value="<?php echo $data['receiver'];?>" name="receiver" placeholder="Receiver">
                             	</div>
+                                <div class="form-group col-lg-6 col-md-6 col-sm-6" style="opacity: 0.7;">
+                                    <input type="text" class="form-control" value="<?php echo $data['receiver_email'];?>" name="receiver_email" placeholder="Receiver_email">
+                                </div>
+                                <div class="form-group col-lg-6 col-md-6 col-sm-6" style="opacity: 0.7;">
+                                    <input type="text" class="form-control" value="<?php echo $data['receiver_addr'];?>" name="receiver_addr" placeholder="Receiver_address">
+                                </div>
                             	<div class="form-group col-lg-6 col-md-6 col-sm-6" style="opacity: 0.7;">
                             		<input type="text" class="form-control" value="<?php echo $data['qgoods'];?>" name="qgoods" placeholder="quantity of goods">
                             	</div>

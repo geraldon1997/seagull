@@ -47,15 +47,19 @@
 				}
 
 				if (empty($data['email_err']) && empty($data['track_err'])) {
-					$usertrack = $this->pageModel->getTrack($data['track']);
+					$shipment = $this->pageModel->getTrack($data['track']);
+					if($shipment){
 						$data = [
-							'usertrack' => $usertrack
+							'shipment' => $shipment
 						];
 						$this->view('pages/track', $data);
 					}else{
-						flash('message', 'Incorrect login details');
-						$this->view('pages/track', $data);
+						flash('message', 'shipping details not found');
+						redirect('pages/track');
 					}
+				}else{
+					$this->view('pages/track', $data);
+				}
 
 			}else{
 				$data = [

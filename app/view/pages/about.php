@@ -28,11 +28,10 @@
                             <i class="fi flaticon-plane"></i>
                         </div>
                         <h2>Who We Are?</h2>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less</p>
-                        <p>content here', making it look like readable English. Many desktop publishing packages and web page</p>
-                        <span>Long established fact that a reader</span>
-                        <span>We making it look like readable English.</span>
-                        <span>Long established fact that a reader</span>
+                        <p>It is a long established fact TSeagull shipping is a company with the objective of serving its clients with fast and secure deliveries. Strives to function as the most reliable service partner of its clients. We provide total transportation services covering Ocean freight, Air freight and Road freight. Seagull Shipping is well equipped with qualified professionals as well as resources and worldwide networks in the field of logistics.</p>
+                        <span>Serving clients since 2000</span>
+                        <span>Relaibility is assured</span>
+                        <span>Insurance on any of your shipment</span>
                     </div>
                     <div class="signature-section">
                         <div class="si-text">
@@ -64,7 +63,7 @@
                             </div>
                             <div class="service-content">
                                 <h3>Ensure Safety</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , There are many variations of passages of Lorem Ipsum available,</p>
+                                <p>We ensure the safety of your goods, your goods are insured with us.</p>
                             </div>
                         </div>
                     </div>
@@ -77,7 +76,7 @@
                             </div>
                             <div class="service-content service-content2">
                                 <h3>Build Up Community</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , There are many variations of passages of Lorem Ipsum available,</p>
+                                <p>Our community of logistics is a verified entity, we live for the happiness of others and offer selfless acts.</p>
                             </div>
                         </div>
                     </div>
@@ -90,7 +89,7 @@
                              </div>
                             <div class="service-content service-content3">
                                 <h3>In Time Delivery</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , There are many variations of passages of Lorem Ipsum available, </p>
+                                <p>Our deliveries are top notch, always arrive at the stated estimated time. you can track your cargo anytime anywhere.</p>
                             </div>
                         </div>
                     </div>
@@ -114,11 +113,7 @@
                         <div class="team-img">
                             <img src="<?php echo URLROOT;?>/image/team/1.jpg" alt="">
                             <div class="social-1st">
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
+                                
                             </div>
                         </div>
                         <div class="team-content">
@@ -132,11 +127,7 @@
                         <div class="team-img">
                             <img src="<?php echo URLROOT;?>/image/team/2.jpg" alt="">
                             <div class="social-1st">
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
+                                
                             </div>
                         </div>
                         <div class="team-content">
@@ -150,11 +141,7 @@
                         <div class="team-img">
                             <img src="<?php echo URLROOT;?>/image/team/3.jpg" alt="">
                             <div class="social-1st">
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
+                                
                             </div>
                         </div>
                         <div class="team-content">
@@ -168,11 +155,7 @@
                         <div class="team-img">
                             <img src="<?php echo URLROOT;?>/image/team/4.jpg" alt="">
                             <div class="social-1st">
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                </ul>
+                                
                             </div>
                         </div>
                         <div class="team-content">

@@ -4,7 +4,7 @@
 
 			$this->userModel = $this->model('Users');
 		}
-
+		
 		public function adminlogin(){
 			if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 				$_POST = filter_input_array(INPUT_POST, FILTER_SANITIZE_STRING);
@@ -72,6 +72,8 @@
 					'track_id' => trim($_POST['track_id']),
 					'sender' => trim($_POST['sender']),
 					'receiver' => trim($_POST['receiver']),
+					'receiver_email' => trim($_POST['receiver_email']),
+					'receiver_addr' => trim($_POST['receiver_addr']),
 					'qgoods' => trim($_POST['qgoods']),
 					'ngoods' => trim($_POST['ngoods']),
 					'destination' => trim($_POST['destination']),
@@ -82,6 +84,7 @@
 					'track_id_err' => '',
 					'sender_err' => '',
 					'receiver_err' => '',
+					'receiver_email_err' => '',
 					'qgoods_err' => '',
 					'ngoods_err' => '',
 					'destination_err' => '',
@@ -135,6 +138,8 @@
 					'track_id' => $result,
 					'sender' => '',
 					'receiver' => '',
+					'receiver_email' => '',
+					'receiver_addr' => '',
 					'qgoods' => '',
 					'ngoods' => '',
 					'destination' => '',
@@ -145,6 +150,7 @@
 					'track_id_err' => '',
 					'sender_err' => '',
 					'receiver_err' => '',
+					'receiver_email_err' => '',
 					'qgoods_err' => '',
 					'ngoods_err' => '',
 					'destination_err' => '',

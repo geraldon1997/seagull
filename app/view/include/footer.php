@@ -1,5 +1,5 @@
  <!-- .footer-area start -->
-    <div class="footer-area">
+    <div class="footer-area" id="footer">
         <div class="footer-bottom">
             <div class="container">
                 <div class="footer-bottom-content">
@@ -14,7 +14,8 @@
                         </div>
                     	</div>
                         <div class="col-12">
-                            <span>&copy; 2019 seagullshippingbd. All rights reserved.</span>
+                            <span>&copy; 2014 seagullshippingbd. All rights reserved.</span><br>
+                            <span>contact @ seagullshippingbd@supportteam.com</span>
                         </div>
                     </div>
                 </div>

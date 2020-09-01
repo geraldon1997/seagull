@@ -10,6 +10,8 @@
   							<th>trackinID</th>
   							<th>Sender</th>
   							<th>Receiver</th>
+                <th>Receiver_email</th>
+                <th>Receiver_addr</th>
   							<th>Quantity</th>
   							<th>Nature</th>
   							<th>Destination</th>
@@ -25,6 +27,8 @@
 							<td><?php echo $shipment->tracking_id;?></td>
   							<td><?php echo $shipment->sender;?></td>
   							<td><?php echo $shipment->receiver;?></td>
+                <td><?php echo $shipment->email;?></td>
+                <td><?php echo $shipment->receiver_addr;?></td>
   							<td><?php echo $shipment->qgoods;?></td>
   							<td><?php echo $shipment->nature_of_goods;?></td>
   							<td><?php echo $shipment->destination;?></td>

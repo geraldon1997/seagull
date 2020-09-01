@@ -9,7 +9,7 @@
                         <div class="col col-lg-9 slide-caption">
                             <h2><span>We Provide the Best Solution</span> <span>For Your Cargo.</span></h2>
                             <div class="btns">
-                                <div class="btn-style"><a href="#">Contact us now</a></div>
+                                <div class="btn-style"><a href="#footer">Contact us now</a></div>
                             </div>
                         </div>
                     </div>
@@ -22,7 +22,7 @@
                         <div class="col col-lg-9 slide-caption">
                             <h2><span>We Provide the Best Solution</span> <span>For Your Transport.</span></h2>
                             <div class="btns">
-                                <div class="btn-style"><a href="#">Contact us now</a></div>
+                                <div class="btn-style"><a href="#footer">Contact us now</a></div>
                             </div>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                         <div class="col col-lg-9 slide-caption">
                             <h2><span>We Provide the Best Solution</span> <span>For Your Shipment.</span></h2>
                             <div class="btns">
-                                <div class="btn-style"><a href="#">Contact us now</a></div>
+                                <div class="btn-style"><a href="#footer">Contact us now</a></div>
                             </div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                         </div>
                         <h2>Who We Are?</h2>
                         <p> TSeagull shipping is a company with the objective of serving its clients with fast and secure deliveries. Strives to function as the most reliable service partner of its clients. We provide total transportation services covering Ocean freight, Air freight and Road freight. Seagull Shipping is well equipped with qualified professionals as well as resources and worldwide networks in the field of logistics.</p>
-                        <span>Serving clients since 2000</span>
+                        <span>Serving clients since 2010</span>
                         <span>Relaibility is assured</span>
                         <span>Insurance on any of your shipment</span>
                     </div>
@@ -130,8 +130,8 @@
                             </div>
                             <div class="service-content">
                                 <h3>Land Transport</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , </p>
-                                <a href="#">See More...</a>
+                                <p>we offer  many variations of passages for land transport </p>
+                                <a href="<?php echo URLROOT;?>/pages/service">See More...</a>
                             </div>
                         </div>
                     </div>
@@ -144,8 +144,8 @@
                             </div>
                             <div class="service-content service-content2">
                                 <h3>Sea Freight</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , </p>
-                                <a href="#">See More...</a>
+                                <p>we deliver the best sea shipments , </p>
+                                <a href="<?php echo URLROOT;?>/pages/service">See More...</a>
                             </div>
                         </div>
                     </div>
@@ -158,8 +158,8 @@
                              </div>
                             <div class="service-content service-content3">
                                 <h3>Air Freight</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , </p>
-                                <a href="#">See More...</a>
+                                <p>Our Air freight is the best among majority , </p>
+                                <a href="<?php echo URLROOT;?>/pages/service">See More...</a>
                             </div>
                         </div>
                     </div>
@@ -172,8 +172,8 @@
                              </div>
                             <div class="service-content service-content4">
                                 <h3>Logistic Solutions</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , </p>
-                                <a href="#">See More...</a>
+                                <p>We provide the best logistic solution, </p>
+                                <a href="<?php echo URLROOT;?>/pages/service">See More...</a>
                             </div>
                         </div>
                     </div>
@@ -186,8 +186,8 @@
                              </div>
                             <div class="service-content service-content5">
                                 <h3>Packaging and Store</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , </p>
-                                <a href="#">See More...</a>
+                                <p>We package your shipment and store safely, </p>
+                                <a href="<?php echo URLROOT;?>/pages/service">See More...</a>
                             </div>
                         </div>
                     </div>
@@ -200,8 +200,8 @@
                             </div>
                             <div class="service-content service-content6">
                                 <h3>Warehousing</h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority , </p>
-                                <a href="#">See More...</a>
+                                <p>Our warehouse=ing services is secure and fully automated, </p>
+                                <a href="<?php echo URLROOT;?>/pages/service">See More...</a>
                             </div>
                         </div>
                     </div>

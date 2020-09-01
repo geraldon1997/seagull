@@ -35,11 +35,13 @@
 		}
 
 		public function shipment($data){
-			$this->db->query("INSERT INTO shipment (tracking_id, sender, receiver, qgoods, nature_of_goods, destination, current_location, status, ddate, adate) VALUES (:track_id, :sender, :receiver, :qgoods, :ngoods, :destination, :clocation, :status, :ddate, :adate)");
+			$this->db->query("INSERT INTO shipment (tracking_id, sender, receiver, email, receiver_addr, qgoods, nature_of_goods, destination, current_location, status, ddate, adate) VALUES (:track_id, :sender, :receiver, :receiver_email, :receiver_addr, :qgoods, :ngoods, :destination, :clocation, :status, :ddate, :adate)");
 
 			$this->db->bind(':track_id', $data['track_id']);
 			$this->db->bind(':sender', $data['sender']);
 			$this->db->bind(':receiver', $data['receiver']);
+			$this->db->bind(':receiver_email', $data['receiver_email']);
+			$this->db->bind(':receiver_addr', $data['receiver_addr']);
 			$this->db->bind(':qgoods', $data['qgoods']);
 			$this->db->bind(':ngoods', $data['ngoods']);
 			$this->db->bind(':destination', $data['destination']);
